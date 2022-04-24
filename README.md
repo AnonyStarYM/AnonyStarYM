@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Patrick;
-- 👀 I’m interested in NLP and Cyberspace Security;
-- 🌱 I’m currently learning NLP and Cyberspace Security;
 - 🌲 Trying to be a diligent person.
