@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Patrick;
 - 🌲 Trying to be a diligent person.
+- 🍕 I'm interested in compilers, programming languages, software analysis.
